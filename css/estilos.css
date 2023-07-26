@@ -4,6 +4,19 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: "Mulish", sans-serif;
+}
+
+h1 {
+    font-size: 38.48px;
+    color: #04146c;
+    font-weight: 900;
+}
+
+h2 {
+    font-size: 21.56px;
+    font-weight: 700;
+    color: #0a2ff1;
 }
 
 img {
@@ -16,4 +29,7 @@ p {
     margin-left: 70px;
     margin-top: none;
     margin-bottom: none;
+    font-weight: 400;
+    font-size: 19.97px;
+    color: #04146c;
 }
